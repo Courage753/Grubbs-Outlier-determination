@@ -1,0 +1,10 @@
+D:\ie10\Desktop\code\Grubbs\bin\Debug\Grubbs.exe.config
+D:\ie10\Desktop\code\Grubbs\bin\Debug\Grubbs.exe
+D:\ie10\Desktop\code\Grubbs\bin\Debug\Grubbs.pdb
+D:\ie10\Desktop\code\Grubbs\obj\Debug\Grubbs.csproj.AssemblyReference.cache
+D:\ie10\Desktop\code\Grubbs\obj\Debug\Grubbs.Form1.resources
+D:\ie10\Desktop\code\Grubbs\obj\Debug\Grubbs.Properties.Resources.resources
+D:\ie10\Desktop\code\Grubbs\obj\Debug\Grubbs.csproj.GenerateResource.cache
+D:\ie10\Desktop\code\Grubbs\obj\Debug\Grubbs.csproj.CoreCompileInputs.cache
+D:\ie10\Desktop\code\Grubbs\obj\Debug\Grubbs.exe
+D:\ie10\Desktop\code\Grubbs\obj\Debug\Grubbs.pdb
